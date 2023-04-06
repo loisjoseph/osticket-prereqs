@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/mdWWa3Z.png"/>
 </p>
 <p>
-Downloaded and installed prerequisite software needed before installing osTicket.
+Example: Downloaded and installed prerequisite software needed before installing osTicket.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ Downloaded and installed prerequisite software needed before installing osTicket
 <img src="https://i.imgur.com/KeQ05Be.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Setting up the configurations in IIS manager.
+Example: Setting up the configurations in IIS manager.
 </p>
 <br />
 
@@ -50,6 +50,6 @@ Setting up the configurations in IIS manager.
 <img src="https://i.imgur.com/o7xJZTr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-All downloads and installs are completed and the osTicket System is ready for use.
+Example: All downloads and installs are completed and the osTicket System is ready for use.
 </p>
 <br />
